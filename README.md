@@ -1,7 +1,7 @@
 ### Eae meu nobre 👋
 
-- 🔭 Atualmente eu não trabalho em lugar nenhum, porém vamos ver da que a 2/3 anos
-- 🌱 Estou aprendendo o básico do js e a responsividades de sites feitos só com html e css
+- 🔭 Atualmente eu não trabalho em lugar nenhum, porém vamos ver da que a 2/3 anos 🧐
+- 🌱 Estou aprendendo o básico do js e aumentando o meu conhecimento de html e css 🤙
 
 <br>
 <div align="center">
@@ -11,10 +11,14 @@
 </div>
 <br>
 <div style="display: inline_block; align-items: center;">
-  <img align="center" alt="bebel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <h1>Skills: </h1>
+  <img align="center" alt="bebel-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" alt="bebel-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="bebel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bebel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="bebel" height="50" width="60" src="https://media.discordapp.net/attachments/805860115814940713/895292484261920818/unknown.png">
+  <h1>In Progress</h1>
+  <img align="center" alt="bebel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
 <hr>
