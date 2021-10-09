@@ -1,6 +1,5 @@
 ### Eae meu nobre 👋
 
-- 🔭 Atualmente eu não trabalho em lugar nenhum, porém vamos ver da que a 2/3 anos 🧐
 - 🌱 Estou aprendendo o básico do js e aumentando o meu conhecimento de html e css 🤙
 
 <br>
