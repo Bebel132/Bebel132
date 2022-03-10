@@ -1,6 +1,6 @@
 ### Eae meu nobre 👋
 
-- 🌱 Estou aprendendo o básico do js e aumentando o meu conhecimento de html e css 🤙
+- 🌱 🤙
 
 <br>
 <div align="center">
