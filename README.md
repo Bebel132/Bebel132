@@ -17,10 +17,12 @@
   <img align="center" alt="bebel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bebel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="bebel" height="50" width="60" src="https://media.discordapp.net/attachments/805860115814940713/895292484261920818/unknown.png">
-  <h1>In Progress:</h1>
   <img align="center" alt="bebel-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="bebel-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="bebel-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <h1>In Progress:</h1>
+  <img align="center" alt="bebel-NODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
+  
 </div>
   
 <hr>
