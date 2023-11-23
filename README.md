@@ -21,8 +21,7 @@
   <img align="center" alt="bebel-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="bebel-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <h1>In Progress:</h1>
-  <img align="center" alt="bebel-NODE" height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" />
-  
+  <img align="center" alt="bebel-NODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
   
 <hr>
