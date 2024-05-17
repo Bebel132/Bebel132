@@ -16,7 +16,7 @@
   <img align="center" alt="bebel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bebel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bebel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="right" alt="bebel" height="50" width="60" src="blob:https://web.whatsapp.com/0788d091-fcea-4318-86a1-db068434a155">
+  <img align="right" alt="bebel" height="50" width="60" src="https://media.discordapp.net/attachments/805860115814940713/1241004101911973919/IMG-20240517-WA0009.jpg?ex=66489ea2&is=66474d22&hm=feffd0911c4475bdd9760a751ed54e03671194a36ffefdde4f499e4429547f50&">
   <img align="center" alt="bebel-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <h1>In Progress:</h1>
   <img align="center" alt="bebel-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
