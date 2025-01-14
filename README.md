@@ -1,4 +1,4 @@
-### Eae meu nobre 👋
+### Eae, meu nobre 👋
 
 - 🌱 🤙
 
