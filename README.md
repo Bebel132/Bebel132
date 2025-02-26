@@ -16,7 +16,7 @@
   <img align="center" alt="bebel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bebel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bebel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="right" alt="bebel" height="80" width="70" src="https://iili.io/3JPT96J.png">
+  <img align="right" alt="bebel" height="80" width="80" src="https://iili.io/3JPT96J.png">
   <img align="center" alt="bebel-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <h1>In Progress:</h1>
   <img align="center" alt="bebel-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
