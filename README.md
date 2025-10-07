@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://github.com/Bebel132">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bebel132&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bebel132&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebel132&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
