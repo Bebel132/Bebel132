@@ -1,9 +1,7 @@
 ### Eae, meu nobre 👋
 
 - 🌱 🤙
-<head>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</head>
+
 <br>
 <div align="center">
   <a href="https://github.com/Bebel132">
@@ -21,8 +19,6 @@
   <img align="right" alt="bebel" height="100" width="100" src="https://iili.io/3JPcL8u.png">
   <img align="center" alt="bebel-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="bebel-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-            <i class="devicon-flask-original"></i>
-          
   
   <h1>In Progress:</h1>
   <img align="center" alt="bebel-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
