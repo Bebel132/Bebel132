@@ -18,9 +18,11 @@
   <img align="center" alt="bebel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="right" alt="bebel" height="100" width="100" src="https://iili.io/3JPcL8u.png">
   <img align="center" alt="bebel-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <h1>In Progress:</h1>
   <img align="center" alt="bebel-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
+  
+  <h1>In Progress:</h1>
+  <img align="center" alt="bebel-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img align="center" alt="bebel-django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 </div>
   
 <hr>
