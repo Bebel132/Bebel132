@@ -6,4 +6,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bebel132&show_icons=true&locale=en&layout=compact" alt="Bebel132" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bebel132&show_icons=true&locale=en" alt="bebel132" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bebel132&show_icons=true&locale=en" alt="Bebel132" /></p>
