@@ -41,6 +41,10 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oy6ope59mx9btp83xyf39iqv7&unique={true|1|on|yes})
+<div align="center">
+  <a href="https://open.spotify.com/user/emanuel">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=emanuel&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
