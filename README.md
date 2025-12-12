@@ -38,9 +38,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oy6ope59mx9btp83xyf39iqv7&unique={true|1|on|yes})
-
-###
