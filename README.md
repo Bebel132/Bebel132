@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emanuel and I'm a FullStack, from Brazil. <br><br>And I'm creating bugs since 2021!</p>
+<p align="left">My name is Emanuel and I'm a FullStack Developer, from Brazil.
 
 ###
 
